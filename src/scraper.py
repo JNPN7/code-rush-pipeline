@@ -124,14 +124,14 @@ class Scraper:
         return movies_dict
 
 
-    ### 403 unauthorized ###
-    #TODO! need to use selenium i guess
-    def get_celeb_info(self, name):
-        search_url = f"https://www.imdb.com/find/?s=nm&q=dana&ref_=nv_sr_sm"
-#        search_url = "https://www.imdb.com/chart/top/?ref_=nv_mv_250"
-        doc = self.__get_page(search_url)
-        print(doc)
+#     ### 403 unauthorized ###
+#     #TODO! need to use selenium i guess
+#     def get_celeb_info(self, name):
+#         search_url = f"https://www.imdb.com/find/?s=nm&q=dana&ref_=nv_sr_sm"
+# #        search_url = "https://www.imdb.com/chart/top/?ref_=nv_mv_250"
+#         doc = self.__get_page(search_url)
+#         print(doc)
 
 
 test = Scraper()
-test.get_celeb_info('zack snyder')
+# test.get_celeb_info('zack snyder')
