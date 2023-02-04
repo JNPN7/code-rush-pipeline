@@ -7,10 +7,10 @@ import seaborn as sns
 
 a = scraper.Scraper()
 
-dict = a.get_top250_movies_info()
+data = a.get_top250_movies_info()
 
 # Load data into a dataframe
-df = pd.DataFrame.from_dict(dict)
+df = pd.DataFrame.from_dict(data)
 
 # Replace non-numeric values in the year and rating columns with NaN
 df['year'] = pd.to_numeric(df['year'], errors='coerce')

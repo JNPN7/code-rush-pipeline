@@ -13,9 +13,6 @@ class Scraper:
     def __get_page(self, url) -> list:
         headers = {'Accept-Language': 'en-US,en;q=0.5'}
         response = requests.get(url, headers=headers)
-
-        print(response.status_code)
-
         
         if response.status_code != 200:
             raise Exception(f'Failed to load page {url}')
