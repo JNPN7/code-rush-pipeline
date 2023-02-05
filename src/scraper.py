@@ -131,4 +131,5 @@ class Scraper:
 
 
 test = Scraper()
+test.get_top250_movies_info()
 # test.get_celeb_info('zack snyder')
