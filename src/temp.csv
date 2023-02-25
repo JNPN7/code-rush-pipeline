@@ -1,0 +1,251 @@
+,titles,genre,rating,year,director
+0,Top Gun: Maverick,"['Action', 'Drama']",8.3,2022,Joseph Kosinski
+1,The Godfather,"['Crime', 'Drama']",9.2,1972,Francis Ford Coppola
+2,The Shawshank Redemption,['Drama'],9.3,1994,Frank Darabont
+3,Interstellar,"['Adventure', 'Drama', 'Sci-Fi']",8.6,2014,Christopher Nolan
+4,Pulp Fiction,"['Crime', 'Drama']",8.9,1994,Quentin Tarantino
+5,The Lord of the Rings: The Fellowship of the Ring,"['Action', 'Adventure', 'Drama']",8.8,2001,Peter Jackson
+6,Avengers: Endgame,"['Action', 'Adventure', 'Drama']",8.4,2019,Anthony Russo
+7,Spider-Man: No Way Home,"['Action', 'Adventure', 'Fantasy']",8.2,2021,Jon Watts
+8,The Wolf of Wall Street,"['Biography', 'Comedy', 'Crime']",8.2,2013,Martin Scorsese
+9,The Dark Knight,"['Action', 'Crime', 'Drama']",9.0,2008,Christopher Nolan
+10,Inception,"['Action', 'Adventure', 'Sci-Fi']",8.8,2010,Christopher Nolan
+11,Joker,"['Crime', 'Drama', 'Thriller']",8.4,I) (,Todd Phillips
+12,The Departed,"['Crime', 'Drama', 'Thriller']",8.5,2006,Martin Scorsese
+13,Whiplash,"['Drama', 'Music']",8.5,2014,Damien Chazelle
+14,Good Will Hunting,"['Drama', 'Romance']",8.3,1997,Gus Van Sant
+15,Fight Club,['Drama'],8.8,1999,David Fincher
+16,The Help,['Drama'],8.1,2011,Tate Taylor
+17,Forrest Gump,"['Drama', 'Romance']",8.8,1994,Robert Zemeckis
+18,Scarface,"['Crime', 'Drama']",8.3,1983,Brian De Palma
+19,Parasite,"['Drama', 'Thriller']",8.5,2019,Bong Joon Ho
+20,The Godfather Part II,"['Crime', 'Drama']",9.0,1974,Francis Ford Coppola
+21,Schindler's List,"['Biography', 'Drama', 'History']",9.0,1993,Steven Spielberg
+22,Inglourious Basterds,"['Adventure', 'Drama', 'War']",8.3,2009,Quentin Tarantino
+23,12 Angry Men,"['Crime', 'Drama']",9.0,1957,Sidney Lumet
+24,Django Unchained,"['Drama', 'Western']",8.4,2012,Quentin Tarantino
+25,Heat,"['Action', 'Crime', 'Drama']",8.3,1995,Michael Mann
+26,Gladiator,"['Action', 'Adventure', 'Drama']",8.5,2000,Ridley Scott
+27,Eternal Sunshine of the Spotless Mind,"['Drama', 'Romance', 'Sci-Fi']",8.3,2004,Michel Gondry
+28,Harry Potter and the Deathly Hallows: Part 2,"['Adventure', 'Family', 'Fantasy']",8.1,2011,David Yates
+29,The Silence of the Lambs,"['Crime', 'Drama', 'Thriller']",8.6,1991,Jonathan Demme
+30,Goodfellas,"['Biography', 'Crime', 'Drama']",8.7,1990,Martin Scorsese
+31,Requiem for a Dream,['Drama'],8.3,2000,Darren Aronofsky
+32,Prisoners,"['Crime', 'Drama', 'Mystery']",8.1,2013,Denis Villeneuve
+33,The Green Mile,"['Crime', 'Drama', 'Fantasy']",8.6,1999,Frank Darabont
+34,Se7en,"['Crime', 'Drama', 'Mystery']",8.6,1995,David Fincher
+35,Gone Girl,"['Drama', 'Mystery', 'Thriller']",8.1,2014,David Fincher
+36,Catch Me If You Can,"['Biography', 'Crime', 'Drama']",8.1,2002,Steven Spielberg
+37,Back to the Future,"['Adventure', 'Comedy', 'Sci-Fi']",8.5,1985,Robert Zemeckis
+38,Shutter Island,"['Mystery', 'Thriller']",8.2,2010,Martin Scorsese
+39,Indiana Jones and the Raiders of the Lost Ark,"['Action', 'Adventure']",8.4,1981,Steven Spielberg
+40,Taxi Driver,"['Crime', 'Drama']",8.2,1976,Martin Scorsese
+41,American Beauty,['Drama'],8.4,1999,Sam Mendes
+42,The Lord of the Rings: The Return of the King,"['Action', 'Adventure', 'Drama']",9.0,2003,Peter Jackson
+43,The Prestige,"['Drama', 'Mystery', 'Sci-Fi']",8.5,2006,Christopher Nolan
+44,One Flew Over the Cuckoo's Nest,['Drama'],8.7,1975,Milos Forman
+45,The Matrix,"['Action', 'Sci-Fi']",8.7,1999,Lana Wachowski
+46,Apocalypse Now,"['Drama', 'Mystery', 'War']",8.5,1979,Francis Ford Coppola
+47,No Country for Old Men,"['Crime', 'Drama', 'Thriller']",8.2,2007,Ethan Coen
+48,Alien,"['Horror', 'Sci-Fi']",8.5,1979,Ridley Scott
+49,Léon: The Professional,"['Action', 'Crime', 'Drama']",8.5,1994,Luc Besson
+50,Top Gun: Maverick,"['Action', 'Drama']",8.3,2022,Joseph Kosinski
+51,The Godfather,"['Crime', 'Drama']",9.2,1972,Francis Ford Coppola
+52,The Shawshank Redemption,['Drama'],9.3,1994,Frank Darabont
+53,Interstellar,"['Adventure', 'Drama', 'Sci-Fi']",8.6,2014,Christopher Nolan
+54,Pulp Fiction,"['Crime', 'Drama']",8.9,1994,Quentin Tarantino
+55,The Lord of the Rings: The Fellowship of the Ring,"['Action', 'Adventure', 'Drama']",8.8,2001,Peter Jackson
+56,Avengers: Endgame,"['Action', 'Adventure', 'Drama']",8.4,2019,Anthony Russo
+57,Spider-Man: No Way Home,"['Action', 'Adventure', 'Fantasy']",8.2,2021,Jon Watts
+58,The Wolf of Wall Street,"['Biography', 'Comedy', 'Crime']",8.2,2013,Martin Scorsese
+59,The Dark Knight,"['Action', 'Crime', 'Drama']",9.0,2008,Christopher Nolan
+60,Inception,"['Action', 'Adventure', 'Sci-Fi']",8.8,2010,Christopher Nolan
+61,Joker,"['Crime', 'Drama', 'Thriller']",8.4,I) (,Todd Phillips
+62,The Departed,"['Crime', 'Drama', 'Thriller']",8.5,2006,Martin Scorsese
+63,Whiplash,"['Drama', 'Music']",8.5,2014,Damien Chazelle
+64,Good Will Hunting,"['Drama', 'Romance']",8.3,1997,Gus Van Sant
+65,Fight Club,['Drama'],8.8,1999,David Fincher
+66,The Help,['Drama'],8.1,2011,Tate Taylor
+67,Forrest Gump,"['Drama', 'Romance']",8.8,1994,Robert Zemeckis
+68,Scarface,"['Crime', 'Drama']",8.3,1983,Brian De Palma
+69,Parasite,"['Drama', 'Thriller']",8.5,2019,Bong Joon Ho
+70,The Godfather Part II,"['Crime', 'Drama']",9.0,1974,Francis Ford Coppola
+71,Schindler's List,"['Biography', 'Drama', 'History']",9.0,1993,Steven Spielberg
+72,Inglourious Basterds,"['Adventure', 'Drama', 'War']",8.3,2009,Quentin Tarantino
+73,12 Angry Men,"['Crime', 'Drama']",9.0,1957,Sidney Lumet
+74,Django Unchained,"['Drama', 'Western']",8.4,2012,Quentin Tarantino
+75,Heat,"['Action', 'Crime', 'Drama']",8.3,1995,Michael Mann
+76,Gladiator,"['Action', 'Adventure', 'Drama']",8.5,2000,Ridley Scott
+77,Eternal Sunshine of the Spotless Mind,"['Drama', 'Romance', 'Sci-Fi']",8.3,2004,Michel Gondry
+78,Harry Potter and the Deathly Hallows: Part 2,"['Adventure', 'Family', 'Fantasy']",8.1,2011,David Yates
+79,The Silence of the Lambs,"['Crime', 'Drama', 'Thriller']",8.6,1991,Jonathan Demme
+80,Goodfellas,"['Biography', 'Crime', 'Drama']",8.7,1990,Martin Scorsese
+81,Requiem for a Dream,['Drama'],8.3,2000,Darren Aronofsky
+82,Prisoners,"['Crime', 'Drama', 'Mystery']",8.1,2013,Denis Villeneuve
+83,The Green Mile,"['Crime', 'Drama', 'Fantasy']",8.6,1999,Frank Darabont
+84,Se7en,"['Crime', 'Drama', 'Mystery']",8.6,1995,David Fincher
+85,Gone Girl,"['Drama', 'Mystery', 'Thriller']",8.1,2014,David Fincher
+86,Catch Me If You Can,"['Biography', 'Crime', 'Drama']",8.1,2002,Steven Spielberg
+87,Back to the Future,"['Adventure', 'Comedy', 'Sci-Fi']",8.5,1985,Robert Zemeckis
+88,Shutter Island,"['Mystery', 'Thriller']",8.2,2010,Martin Scorsese
+89,Indiana Jones and the Raiders of the Lost Ark,"['Action', 'Adventure']",8.4,1981,Steven Spielberg
+90,Taxi Driver,"['Crime', 'Drama']",8.2,1976,Martin Scorsese
+91,American Beauty,['Drama'],8.4,1999,Sam Mendes
+92,The Lord of the Rings: The Return of the King,"['Action', 'Adventure', 'Drama']",9.0,2003,Peter Jackson
+93,The Prestige,"['Drama', 'Mystery', 'Sci-Fi']",8.5,2006,Christopher Nolan
+94,One Flew Over the Cuckoo's Nest,['Drama'],8.7,1975,Milos Forman
+95,The Matrix,"['Action', 'Sci-Fi']",8.7,1999,Lana Wachowski
+96,Apocalypse Now,"['Drama', 'Mystery', 'War']",8.5,1979,Francis Ford Coppola
+97,No Country for Old Men,"['Crime', 'Drama', 'Thriller']",8.2,2007,Ethan Coen
+98,Alien,"['Horror', 'Sci-Fi']",8.5,1979,Ridley Scott
+99,Léon: The Professional,"['Action', 'Crime', 'Drama']",8.5,1994,Luc Besson
+100,Top Gun: Maverick,"['Action', 'Drama']",8.3,2022,Joseph Kosinski
+101,The Godfather,"['Crime', 'Drama']",9.2,1972,Francis Ford Coppola
+102,The Shawshank Redemption,['Drama'],9.3,1994,Frank Darabont
+103,Interstellar,"['Adventure', 'Drama', 'Sci-Fi']",8.6,2014,Christopher Nolan
+104,Pulp Fiction,"['Crime', 'Drama']",8.9,1994,Quentin Tarantino
+105,The Lord of the Rings: The Fellowship of the Ring,"['Action', 'Adventure', 'Drama']",8.8,2001,Peter Jackson
+106,Avengers: Endgame,"['Action', 'Adventure', 'Drama']",8.4,2019,Anthony Russo
+107,Spider-Man: No Way Home,"['Action', 'Adventure', 'Fantasy']",8.2,2021,Jon Watts
+108,The Wolf of Wall Street,"['Biography', 'Comedy', 'Crime']",8.2,2013,Martin Scorsese
+109,The Dark Knight,"['Action', 'Crime', 'Drama']",9.0,2008,Christopher Nolan
+110,Inception,"['Action', 'Adventure', 'Sci-Fi']",8.8,2010,Christopher Nolan
+111,Joker,"['Crime', 'Drama', 'Thriller']",8.4,I) (,Todd Phillips
+112,The Departed,"['Crime', 'Drama', 'Thriller']",8.5,2006,Martin Scorsese
+113,Whiplash,"['Drama', 'Music']",8.5,2014,Damien Chazelle
+114,Good Will Hunting,"['Drama', 'Romance']",8.3,1997,Gus Van Sant
+115,Fight Club,['Drama'],8.8,1999,David Fincher
+116,The Help,['Drama'],8.1,2011,Tate Taylor
+117,Forrest Gump,"['Drama', 'Romance']",8.8,1994,Robert Zemeckis
+118,Scarface,"['Crime', 'Drama']",8.3,1983,Brian De Palma
+119,Parasite,"['Drama', 'Thriller']",8.5,2019,Bong Joon Ho
+120,The Godfather Part II,"['Crime', 'Drama']",9.0,1974,Francis Ford Coppola
+121,Schindler's List,"['Biography', 'Drama', 'History']",9.0,1993,Steven Spielberg
+122,Inglourious Basterds,"['Adventure', 'Drama', 'War']",8.3,2009,Quentin Tarantino
+123,12 Angry Men,"['Crime', 'Drama']",9.0,1957,Sidney Lumet
+124,Django Unchained,"['Drama', 'Western']",8.4,2012,Quentin Tarantino
+125,Heat,"['Action', 'Crime', 'Drama']",8.3,1995,Michael Mann
+126,Gladiator,"['Action', 'Adventure', 'Drama']",8.5,2000,Ridley Scott
+127,Eternal Sunshine of the Spotless Mind,"['Drama', 'Romance', 'Sci-Fi']",8.3,2004,Michel Gondry
+128,Harry Potter and the Deathly Hallows: Part 2,"['Adventure', 'Family', 'Fantasy']",8.1,2011,David Yates
+129,The Silence of the Lambs,"['Crime', 'Drama', 'Thriller']",8.6,1991,Jonathan Demme
+130,Goodfellas,"['Biography', 'Crime', 'Drama']",8.7,1990,Martin Scorsese
+131,Requiem for a Dream,['Drama'],8.3,2000,Darren Aronofsky
+132,Prisoners,"['Crime', 'Drama', 'Mystery']",8.1,2013,Denis Villeneuve
+133,The Green Mile,"['Crime', 'Drama', 'Fantasy']",8.6,1999,Frank Darabont
+134,Se7en,"['Crime', 'Drama', 'Mystery']",8.6,1995,David Fincher
+135,Gone Girl,"['Drama', 'Mystery', 'Thriller']",8.1,2014,David Fincher
+136,Catch Me If You Can,"['Biography', 'Crime', 'Drama']",8.1,2002,Steven Spielberg
+137,Back to the Future,"['Adventure', 'Comedy', 'Sci-Fi']",8.5,1985,Robert Zemeckis
+138,Shutter Island,"['Mystery', 'Thriller']",8.2,2010,Martin Scorsese
+139,Indiana Jones and the Raiders of the Lost Ark,"['Action', 'Adventure']",8.4,1981,Steven Spielberg
+140,Taxi Driver,"['Crime', 'Drama']",8.2,1976,Martin Scorsese
+141,American Beauty,['Drama'],8.4,1999,Sam Mendes
+142,The Lord of the Rings: The Return of the King,"['Action', 'Adventure', 'Drama']",9.0,2003,Peter Jackson
+143,The Prestige,"['Drama', 'Mystery', 'Sci-Fi']",8.5,2006,Christopher Nolan
+144,One Flew Over the Cuckoo's Nest,['Drama'],8.7,1975,Milos Forman
+145,The Matrix,"['Action', 'Sci-Fi']",8.7,1999,Lana Wachowski
+146,Apocalypse Now,"['Drama', 'Mystery', 'War']",8.5,1979,Francis Ford Coppola
+147,No Country for Old Men,"['Crime', 'Drama', 'Thriller']",8.2,2007,Ethan Coen
+148,Alien,"['Horror', 'Sci-Fi']",8.5,1979,Ridley Scott
+149,Léon: The Professional,"['Action', 'Crime', 'Drama']",8.5,1994,Luc Besson
+150,Top Gun: Maverick,"['Action', 'Drama']",8.3,2022,Joseph Kosinski
+151,The Godfather,"['Crime', 'Drama']",9.2,1972,Francis Ford Coppola
+152,The Shawshank Redemption,['Drama'],9.3,1994,Frank Darabont
+153,Interstellar,"['Adventure', 'Drama', 'Sci-Fi']",8.6,2014,Christopher Nolan
+154,Pulp Fiction,"['Crime', 'Drama']",8.9,1994,Quentin Tarantino
+155,The Lord of the Rings: The Fellowship of the Ring,"['Action', 'Adventure', 'Drama']",8.8,2001,Peter Jackson
+156,Avengers: Endgame,"['Action', 'Adventure', 'Drama']",8.4,2019,Anthony Russo
+157,Spider-Man: No Way Home,"['Action', 'Adventure', 'Fantasy']",8.2,2021,Jon Watts
+158,The Wolf of Wall Street,"['Biography', 'Comedy', 'Crime']",8.2,2013,Martin Scorsese
+159,The Dark Knight,"['Action', 'Crime', 'Drama']",9.0,2008,Christopher Nolan
+160,Inception,"['Action', 'Adventure', 'Sci-Fi']",8.8,2010,Christopher Nolan
+161,Joker,"['Crime', 'Drama', 'Thriller']",8.4,I) (,Todd Phillips
+162,The Departed,"['Crime', 'Drama', 'Thriller']",8.5,2006,Martin Scorsese
+163,Whiplash,"['Drama', 'Music']",8.5,2014,Damien Chazelle
+164,Good Will Hunting,"['Drama', 'Romance']",8.3,1997,Gus Van Sant
+165,Fight Club,['Drama'],8.8,1999,David Fincher
+166,The Help,['Drama'],8.1,2011,Tate Taylor
+167,Forrest Gump,"['Drama', 'Romance']",8.8,1994,Robert Zemeckis
+168,Scarface,"['Crime', 'Drama']",8.3,1983,Brian De Palma
+169,Parasite,"['Drama', 'Thriller']",8.5,2019,Bong Joon Ho
+170,The Godfather Part II,"['Crime', 'Drama']",9.0,1974,Francis Ford Coppola
+171,Schindler's List,"['Biography', 'Drama', 'History']",9.0,1993,Steven Spielberg
+172,Inglourious Basterds,"['Adventure', 'Drama', 'War']",8.3,2009,Quentin Tarantino
+173,12 Angry Men,"['Crime', 'Drama']",9.0,1957,Sidney Lumet
+174,Django Unchained,"['Drama', 'Western']",8.4,2012,Quentin Tarantino
+175,Heat,"['Action', 'Crime', 'Drama']",8.3,1995,Michael Mann
+176,Gladiator,"['Action', 'Adventure', 'Drama']",8.5,2000,Ridley Scott
+177,Eternal Sunshine of the Spotless Mind,"['Drama', 'Romance', 'Sci-Fi']",8.3,2004,Michel Gondry
+178,Harry Potter and the Deathly Hallows: Part 2,"['Adventure', 'Family', 'Fantasy']",8.1,2011,David Yates
+179,The Silence of the Lambs,"['Crime', 'Drama', 'Thriller']",8.6,1991,Jonathan Demme
+180,Goodfellas,"['Biography', 'Crime', 'Drama']",8.7,1990,Martin Scorsese
+181,Requiem for a Dream,['Drama'],8.3,2000,Darren Aronofsky
+182,Prisoners,"['Crime', 'Drama', 'Mystery']",8.1,2013,Denis Villeneuve
+183,The Green Mile,"['Crime', 'Drama', 'Fantasy']",8.6,1999,Frank Darabont
+184,Se7en,"['Crime', 'Drama', 'Mystery']",8.6,1995,David Fincher
+185,Gone Girl,"['Drama', 'Mystery', 'Thriller']",8.1,2014,David Fincher
+186,Catch Me If You Can,"['Biography', 'Crime', 'Drama']",8.1,2002,Steven Spielberg
+187,Back to the Future,"['Adventure', 'Comedy', 'Sci-Fi']",8.5,1985,Robert Zemeckis
+188,Shutter Island,"['Mystery', 'Thriller']",8.2,2010,Martin Scorsese
+189,Indiana Jones and the Raiders of the Lost Ark,"['Action', 'Adventure']",8.4,1981,Steven Spielberg
+190,Taxi Driver,"['Crime', 'Drama']",8.2,1976,Martin Scorsese
+191,American Beauty,['Drama'],8.4,1999,Sam Mendes
+192,The Lord of the Rings: The Return of the King,"['Action', 'Adventure', 'Drama']",9.0,2003,Peter Jackson
+193,The Prestige,"['Drama', 'Mystery', 'Sci-Fi']",8.5,2006,Christopher Nolan
+194,One Flew Over the Cuckoo's Nest,['Drama'],8.7,1975,Milos Forman
+195,The Matrix,"['Action', 'Sci-Fi']",8.7,1999,Lana Wachowski
+196,Apocalypse Now,"['Drama', 'Mystery', 'War']",8.5,1979,Francis Ford Coppola
+197,No Country for Old Men,"['Crime', 'Drama', 'Thriller']",8.2,2007,Ethan Coen
+198,Alien,"['Horror', 'Sci-Fi']",8.5,1979,Ridley Scott
+199,Léon: The Professional,"['Action', 'Crime', 'Drama']",8.5,1994,Luc Besson
+200,Top Gun: Maverick,"['Action', 'Drama']",8.3,2022,Joseph Kosinski
+201,The Godfather,"['Crime', 'Drama']",9.2,1972,Francis Ford Coppola
+202,The Shawshank Redemption,['Drama'],9.3,1994,Frank Darabont
+203,Interstellar,"['Adventure', 'Drama', 'Sci-Fi']",8.6,2014,Christopher Nolan
+204,Pulp Fiction,"['Crime', 'Drama']",8.9,1994,Quentin Tarantino
+205,The Lord of the Rings: The Fellowship of the Ring,"['Action', 'Adventure', 'Drama']",8.8,2001,Peter Jackson
+206,Avengers: Endgame,"['Action', 'Adventure', 'Drama']",8.4,2019,Anthony Russo
+207,Spider-Man: No Way Home,"['Action', 'Adventure', 'Fantasy']",8.2,2021,Jon Watts
+208,The Wolf of Wall Street,"['Biography', 'Comedy', 'Crime']",8.2,2013,Martin Scorsese
+209,The Dark Knight,"['Action', 'Crime', 'Drama']",9.0,2008,Christopher Nolan
+210,Inception,"['Action', 'Adventure', 'Sci-Fi']",8.8,2010,Christopher Nolan
+211,Joker,"['Crime', 'Drama', 'Thriller']",8.4,I) (,Todd Phillips
+212,The Departed,"['Crime', 'Drama', 'Thriller']",8.5,2006,Martin Scorsese
+213,Whiplash,"['Drama', 'Music']",8.5,2014,Damien Chazelle
+214,Good Will Hunting,"['Drama', 'Romance']",8.3,1997,Gus Van Sant
+215,Fight Club,['Drama'],8.8,1999,David Fincher
+216,The Help,['Drama'],8.1,2011,Tate Taylor
+217,Forrest Gump,"['Drama', 'Romance']",8.8,1994,Robert Zemeckis
+218,Scarface,"['Crime', 'Drama']",8.3,1983,Brian De Palma
+219,Parasite,"['Drama', 'Thriller']",8.5,2019,Bong Joon Ho
+220,The Godfather Part II,"['Crime', 'Drama']",9.0,1974,Francis Ford Coppola
+221,Schindler's List,"['Biography', 'Drama', 'History']",9.0,1993,Steven Spielberg
+222,Inglourious Basterds,"['Adventure', 'Drama', 'War']",8.3,2009,Quentin Tarantino
+223,12 Angry Men,"['Crime', 'Drama']",9.0,1957,Sidney Lumet
+224,Django Unchained,"['Drama', 'Western']",8.4,2012,Quentin Tarantino
+225,Heat,"['Action', 'Crime', 'Drama']",8.3,1995,Michael Mann
+226,Gladiator,"['Action', 'Adventure', 'Drama']",8.5,2000,Ridley Scott
+227,Eternal Sunshine of the Spotless Mind,"['Drama', 'Romance', 'Sci-Fi']",8.3,2004,Michel Gondry
+228,Harry Potter and the Deathly Hallows: Part 2,"['Adventure', 'Family', 'Fantasy']",8.1,2011,David Yates
+229,The Silence of the Lambs,"['Crime', 'Drama', 'Thriller']",8.6,1991,Jonathan Demme
+230,Goodfellas,"['Biography', 'Crime', 'Drama']",8.7,1990,Martin Scorsese
+231,Requiem for a Dream,['Drama'],8.3,2000,Darren Aronofsky
+232,Prisoners,"['Crime', 'Drama', 'Mystery']",8.1,2013,Denis Villeneuve
+233,The Green Mile,"['Crime', 'Drama', 'Fantasy']",8.6,1999,Frank Darabont
+234,Se7en,"['Crime', 'Drama', 'Mystery']",8.6,1995,David Fincher
+235,Gone Girl,"['Drama', 'Mystery', 'Thriller']",8.1,2014,David Fincher
+236,Catch Me If You Can,"['Biography', 'Crime', 'Drama']",8.1,2002,Steven Spielberg
+237,Back to the Future,"['Adventure', 'Comedy', 'Sci-Fi']",8.5,1985,Robert Zemeckis
+238,Shutter Island,"['Mystery', 'Thriller']",8.2,2010,Martin Scorsese
+239,Indiana Jones and the Raiders of the Lost Ark,"['Action', 'Adventure']",8.4,1981,Steven Spielberg
+240,Taxi Driver,"['Crime', 'Drama']",8.2,1976,Martin Scorsese
+241,American Beauty,['Drama'],8.4,1999,Sam Mendes
+242,The Lord of the Rings: The Return of the King,"['Action', 'Adventure', 'Drama']",9.0,2003,Peter Jackson
+243,The Prestige,"['Drama', 'Mystery', 'Sci-Fi']",8.5,2006,Christopher Nolan
+244,One Flew Over the Cuckoo's Nest,['Drama'],8.7,1975,Milos Forman
+245,The Matrix,"['Action', 'Sci-Fi']",8.7,1999,Lana Wachowski
+246,Apocalypse Now,"['Drama', 'Mystery', 'War']",8.5,1979,Francis Ford Coppola
+247,No Country for Old Men,"['Crime', 'Drama', 'Thriller']",8.2,2007,Ethan Coen
+248,Alien,"['Horror', 'Sci-Fi']",8.5,1979,Ridley Scott
+249,Léon: The Professional,"['Action', 'Crime', 'Drama']",8.5,1994,Luc Besson
